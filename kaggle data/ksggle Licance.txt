@@ -1,0 +1,83 @@
+When uploading a dataset on Kaggle, choosing the right license is important because it defines how others can use, share, and modify your data. Here are the common licenses available on Kaggle and their roles:
+
+1. CC0 (Public Domain)
+
+Role: Allows anyone to use, modify, and distribute the dataset without any restrictions.
+
+Benefits: Maximizes dataset reach and usability; best for open collaboration.
+
+When to Choose: If you want your dataset to be freely available for any purpose, including commercial use.
+
+
+2. CC BY (Attribution 4.0 International)
+
+Role: Allows others to share and modify your dataset, but they must give you credit.
+
+Benefits: Encourages sharing while ensuring you get recognition.
+
+When to Choose: If you want your dataset to be used widely but still credited.
+
+
+3. CC BY-SA (Attribution-ShareAlike 4.0)
+
+Role: Similar to CC BY, but any derivative works must also be shared under the same license.
+
+Benefits: Ensures open collaboration while maintaining the same licensing terms.
+
+When to Choose: If you want modifications of your dataset to remain open-source.
+
+
+4. CC BY-NC (Attribution-NonCommercial 4.0)
+
+Role: Allows sharing and modification but not for commercial purposes.
+
+Benefits: Protects your data from being used for profit without your permission.
+
+When to Choose: If you want your dataset to be used only for research and non-commercial projects.
+
+
+5. CC BY-NC-SA (Attribution-NonCommercial-ShareAlike 4.0)
+
+Role: Same as CC BY-NC, but derivative works must also follow the same license.
+
+Benefits: Prevents commercial use and ensures modifications remain under the same terms.
+
+When to Choose: If you want to limit commercial use and keep all changes open-source.
+
+
+6. CC BY-ND (Attribution-NoDerivatives 4.0)
+
+Role: Others can use and share your dataset but cannot modify it.
+
+Benefits: Protects the integrity of your dataset while allowing wide distribution.
+
+When to Choose: If you want your dataset to be used as is, without modifications.
+
+
+7. GPL (General Public License)
+
+Role: Mainly for software, but it ensures that modified versions are also made open-source.
+
+Benefits: Guarantees long-term openness of derivative works.
+
+When to Choose: If your dataset includes code and you want it to remain open-source.
+
+
+Which License Should You Choose?
+
+For open-source datasets (no restrictions) → CC0
+
+For credit but free use → CC BY
+
+For credit and open-source sharing → CC BY-SA
+
+For non-commercial research → CC BY-NC
+
+For protecting dataset integrity (no modifications allowed) → CC BY-ND
+
+For datasets with code and strict open-source requirements → GPL
+
+
+If you're unsure, CC BY is a safe choice since it allows sharing but ensures you get credit.
+
+Would you like help selecting a license for a specific dataset?
