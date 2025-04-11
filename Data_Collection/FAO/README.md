@@ -40,17 +40,20 @@ pip install -r requirements.txt
 
 # 3. Launch the app
 streamlit run app.py
+```
 
-*Contributing**
+
 ------------
 
+*Contributing**
 Contributions are welcome! If you'd like to contribute to Stocky, please fork the repository and submit a pull request with your changes.
-
-**License**
 -------
 
-FAOSTATS is licensed under the MIT License.
+**License**
 
+
+FAOSTATS is licensed under the MIT License.
+------------
 
 ## 🙌 Author
 
@@ -59,6 +62,9 @@ FAOSTATS is licensed under the MIT License.
 - [LinkedIn](https://www.linkedin.com/in/muhammad-atif-latif-13a171318)
 - [Kaggle](https://www.kaggle.com/muhammadatiflatif)
 - [Portfolio](https://linktr.ee/umerhaddii)
+
+--------------------
+
 
 
 
