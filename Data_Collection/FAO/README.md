@@ -53,8 +53,8 @@ Contributions are welcome! If you'd like to contribute to Stocky, please fork th
 
 ## License
 
+ FAOSTATS is licensed under the MIT License.
 
-FAOSTATS is licensed under the MIT License.
 ------------
 
 ## 🙌 Author
