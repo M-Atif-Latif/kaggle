@@ -45,13 +45,13 @@ streamlit run app.py
 
 ------------
 
-* Contributing *
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to Stocky, please fork the repository and submit a pull request with your changes.
 
 -------
 
-**License**
+## License
 
 
 FAOSTATS is licensed under the MIT License.
@@ -66,7 +66,4 @@ FAOSTATS is licensed under the MIT License.
 - [Portfolio](https://linktr.ee/umerhaddii)
 
 --------------------
-
-
-
 
