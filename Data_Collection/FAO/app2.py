@@ -441,9 +441,10 @@ st.markdown("---")
 st.sidebar.caption(
     "Built by [Muhammad Atif Latif](https://www.linkedin.com/in/muhammad-atif-latif-13a171318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"
 )
-linkedin = "https://raw.githubusercontent.com/umerhaddii/stocky/main/images/linkedin.gif"
-kaggle = "https://raw.githubusercontent.com/umerhaddii/stocky/main/images/kaggle.gif"
-share = "https://raw.githubusercontent.com/M-Atif-Latif/FAOSTAT Agricultural Data Explorer/main/images/share.gif"
+linkedin = "https://raw.githubusercontent.com/M-Atif-Latif/kaggle/main/Data_Collection/FAO/images/linkedin.gif"
+kaggle = "https://raw.githubusercontent.com/M-Atif-Latif/kaggle/main/Data_Collection/FAO/images/kaggle.gif"
+share = "https://raw.githubusercontent.com/M-Atif-Latif/kaggle/main/Data_Collection/FAO/images/share.gif"
+#https://github.com/M-Atif-Latif/kaggle/blob/main/Data_Collection/FAO/images/kaggle.gif
 
 st.sidebar.caption(
     f"""
