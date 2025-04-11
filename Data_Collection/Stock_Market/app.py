@@ -35,7 +35,8 @@ top_200_tickers = [
     "CFR.SW", "6861.T", "NKE", "LRCX", "1120.SR", "ABBN.SW", "PLD", "KLAC", "6098.T", "TD",
     "000660.KS", "601088.SS", "IBN", "CEG", "SAF.PA", "SPOT", "RIO", "TAQA.AE", "MSTR", "ENB",
     "600900.SS", "AI.PA", "9983.T", "SMFG", "600028.SS", "APO", "MELI", "INTC", "PYPL", "BUD",
-    "SO", "D05.SI", "ELV", "RELX", "SHW", "AMT", "EQIX", "BN", "CRWD", "MO"
+    "SO", "D05.SI", "ELV", "RELX", "SHW", "AMT", "EQIX", "BN", "CRWD", "MO","005380.KS","000063.SZ",
+    "005380.KS", "207940.KS", "XPEV", "1211.HK"
 ]
 
 # Simplified ticker selection without search
@@ -203,23 +204,23 @@ st.sidebar.markdown(
 )
 st.sidebar.markdown("")
 st.sidebar.markdown("## About")
-st.sidebar.info("This app fetches stock market data for the top 200 companies worldwide, including US, European, and Asian markets. Select a ticker symbol, type start date and end date to view the data.")
+st.sidebar.info("This app fetches stock market data for the more then top 200 companies worldwide, including US, European, and Asian markets. Select a ticker symbol, type start date and end date to view the data.")
 
 st.sidebar.markdown("")
 st.sidebar.caption(
-    "Built by [Umer Haddii](https://www.linkedin.com/in/umerhaddii)"
+    "Built by [Muhammad Atif Latif](https://www.kaggle.com/matiflatif)"
 )
 
-linkedin = "https://raw.githubusercontent.com/umerhaddii/stocky/main/images/linkedin.gif"
-kaggle = "https://raw.githubusercontent.com/umerhaddii/stocky/main/images/kaggle.gif"
+linkedin = "https://www.linkedin.com/in/muhammad-atif-latif-13a171318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+kaggle = "https://www.kaggle.com/matiflatif"
 share = "https://raw.githubusercontent.com/umerhaddii/stocky/main/images/share.gif"
 
 st.sidebar.caption(
     f"""
         <div style='display: flex; align-items: center;'>
-            <a href = 'https://www.linkedin.com/in/umerhaddii'><img src='{linkedin}' style='width: 35px; height: 35px; margin-right: 25px;'></a>
-            <a href = 'https://www.kaggle.com/umerhaddii'><img src='{kaggle}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
-            <a href = 'https://linktr.ee/umerhaddii'><img src='{share}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
+            <a href = 'https://www.linkedin.com/in/muhammad-atif-latif'><img src='{linkedin}' style='width: 35px; height: 35px; margin-right: 25px;'></a>
+            <a href = 'https://www.kaggle.com/matiflatif'><img src='{kaggle}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
+            <a href = 'https://linktr.ee/muhammadatiflatif'><img src='{share}' style='width: 28px; height: 28px; margin-right: 25px;'></a>
             
         </div>
         """,
